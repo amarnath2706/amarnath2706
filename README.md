@@ -10,12 +10,9 @@
 - Machine Learning
 - How to reach me amarnathsiva11@gmail.com
 
-Languages and Tools
-bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
-
 My Hobbies and interests:
-Traveling
-Music
+- Traveling
+- Music
 
 You can also fin
 <!---
