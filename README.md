@@ -8,7 +8,8 @@
 - Deep Learning
 - Computer Vision
 - Machine Learning
-- How to reach me amarnathsiva11@gmail.com
+
+#### How to reach me amarnathsiva11@gmail.com
 
 My Hobbies and interests:
 - Traveling
