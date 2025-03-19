@@ -1,7 +1,7 @@
  # Hey! Nice to see you.
 
-- ## 👋 Hi, I’m @ Amarnath
-- I have a technical experience and interest in
+## 👋 Hi, I’m @ Amarnath
+### I have a technical experience and interest in
 - Generative AI
 - Agentic AI
 - NLP
